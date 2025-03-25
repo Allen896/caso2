@@ -2,8 +2,8 @@
 ## Encabezado 2
 ### Encabezado 3
 
-*texto cursivo*
+-*texto cursivo*
 
-**texo negrita**
+-**texo negrita**
 
-***texto negrita y cursiva***
+-***texto negrita y cursiva***
