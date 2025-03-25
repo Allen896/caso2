@@ -34,3 +34,5 @@ print("web 3")
 |Pepe   |23   |
 
 > Programacion WEB 3
+- [x] Tarea 1
+- [] Tarea 2
