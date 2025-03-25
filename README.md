@@ -35,4 +35,4 @@ print("web 3")
 
 > Programacion WEB 3
 - [x] Tarea 1
-- [] Tarea 2
+- [ ] Tarea 2
