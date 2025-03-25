@@ -28,3 +28,6 @@
 print("web 3")
 ```
 
+|Nombre |Edad |
+|-------|-----|
+|Kevin  |21   |
